@@ -1,1 +1,2 @@
-# react-mini
+# Small Project 
+# Hotel Booking app 
